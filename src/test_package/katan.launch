@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+  <node pkg="teleop_gazebo" name="follow_set_joint" type="follow_set_joint" />
+</launch>
